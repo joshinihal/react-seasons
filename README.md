@@ -1,5 +1,5 @@
 # react-seasons
-A react app which determines season using user's location.
+A react app which determines current season using user's location.
 
 # Requirements
 
